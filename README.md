@@ -89,7 +89,7 @@ cd Mass-Dm-Self-Bot
 python3 main.py
 ```
    
-## Usage
+## Usages
 
 Run the `captureIds.py` file using `py -3 captureIds.py` 
 It will listen to any events that happen in any of the servers the user account is linked to, this includes `messages`, `reactions` and `user profile updates` you can wait to a giveaway 
